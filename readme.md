@@ -22,5 +22,6 @@ Gra Wisielec to klasyczna gra słowna, w której celem jest odgadnięcie ukryteg
 ### Uruchomienie aplikacji
    1.Otwórz terminal i wpisz:
    javac Main.java BazaSlow.java WisielecRysunek.java
+   
    2.Po skompilowaniu plików, uruchom grę, wpisując:
    java Main   
